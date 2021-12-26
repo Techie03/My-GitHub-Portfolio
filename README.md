@@ -22,6 +22,6 @@ My Blogs:
 https://techie03.hashnode.dev/
 https://myiottechie.wordpress.com/
 
-My bio: linktr.ee/iot_techie_
+My bio: https://linktr.ee/iot_techie_
 
 My linkedin profile:- https://www.linkedin.com/in/nishith-m-b9098a200
