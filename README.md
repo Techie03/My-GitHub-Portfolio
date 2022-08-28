@@ -24,4 +24,6 @@ https://myiottechie.wordpress.com/
 
 My bio: https://linktr.ee/iot_techie_
 
-My linkedin profile:- https://www.linkedin.com/in/nishith-m-b9098a200
+My linkedin profile :- https://www.linkedin.com/in/mareddy-nishith-chowdary-b9098a200
+
+Contact for any queries to iottechie03@gmail.com 
