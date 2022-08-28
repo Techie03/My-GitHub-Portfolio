@@ -1,4 +1,4 @@
-👋 Hi, I’m Nishith.M
+👋 Hi, I’m MAREDDY NISHITH CHOWDARY.
 
 👀 I’m interested in Python programming,web development and technology.
 
