@@ -20,7 +20,13 @@
 
 My Blogs:
 https://techie03.hashnode.dev/
+
 https://myiottechie.wordpress.com/
+
+Leetcode: https://leetcode.com/nishith374/
+codechef: https://www.codechef.com/users/nishith07
+Hackerrank:https://www.hackerrank.com/nishith374
+
 
 My bio: https://linktr.ee/iot_techie_
 
