@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Techie03)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Techie03&theme=highcontrast)](https://git.io/streak-stats)
 
 👋 Hi, I’m MAREDDY NISHITH CHOWDARY.
 
