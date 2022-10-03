@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Techie03)](https://git.io/streak-stats)
 👋 Hi, I’m MAREDDY NISHITH CHOWDARY.
 
 👀 I’m interested in Python programming,web development and technology.
@@ -31,5 +32,7 @@ Hackerrank:https://www.hackerrank.com/nishith374
 My bio: https://linktr.ee/iot_techie_
 
 My linkedin profile :- https://www.linkedin.com/in/mareddy-nishith-chowdary-b9098a200
+
+
 
 Contact for any queries to iottechie03@gmail.com 
