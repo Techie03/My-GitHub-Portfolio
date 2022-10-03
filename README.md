@@ -1,6 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Techie03&theme=highcontrast)](https://git.io/streak-stats)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://www.github.com/Techie03&logo=GitHub&logoColor=white)]
 
 
 👋 Hi, I’m MAREDDY NISHITH CHOWDARY.
