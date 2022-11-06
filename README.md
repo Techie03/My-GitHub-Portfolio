@@ -19,8 +19,6 @@
 
 📫 If you wanna work with me you can mail me your queries at iottechie03@gmail.com
 
-📫 DM me at instagram(id): https://www.instagram.com/iot_techie_/
-
 🎓 I am a computer science student pursuing my btech computer science and engineering (in specilisation with internet of things) at Malla Reddy Engineering College Main Campus.
 
 My Blogs:
@@ -33,7 +31,7 @@ codechef: https://www.codechef.com/users/nishith07
 Hackerrank:https://www.hackerrank.com/nishith374
 
 
-My bio: https://linktr.ee/iot_techie_
+
 
 My linkedin profile :- https://www.linkedin.com/in/mareddy-nishith-chowdary-b9098a200
 
