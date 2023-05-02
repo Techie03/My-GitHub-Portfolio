@@ -1,6 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Techie03&theme=highcontrast)](https://git.io/streak-stats)
 
-![Techie03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techie03&theme=transparent_icons=true)
+![Techie03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techie03&theme=chartreuse-dark_icons=true)
 
 
 
