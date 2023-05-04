@@ -40,8 +40,8 @@ Coding Profiles
 
 
 
-My linkedin profile :- https://www.linkedin.com/in/mareddy-nishith-chowdary-b9098a200
+[My linkedin profile](https://www.linkedin.com/in/mareddy-nishith-chowdary-b9098a200)
 
 
 
-Contact for any queries to iottechie03@gmail.com 
+[Contact for any queries](iottechie03@gmail.com)
