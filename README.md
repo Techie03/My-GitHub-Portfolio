@@ -23,13 +23,19 @@
 🎓 I am a computer science student pursuing my btech computer science and engineering (in specilisation with internet of things) at Malla Reddy Engineering College Main Campus.
 
 My Blogs:
-https://techie03.hashnode.dev/
 
-https://myiottechie.wordpress.com/
+[Hashnode](https://techie03.hashnode.dev/)
 
-Leetcode: https://leetcode.com/nishith374/
-codechef: https://www.codechef.com/users/nishith07
-Hackerrank:https://www.hackerrank.com/nishith374
+[Wordpress](https://myiottechie.wordpress.com/)
+
+
+Coding Profiles
+
+[Leetcode](https://leetcode.com/nishith374/)
+
+[codechef](https://www.codechef.com/users/nishith07)
+
+[Hackerrank](https://www.hackerrank.com/nishith374)
 
 
 
