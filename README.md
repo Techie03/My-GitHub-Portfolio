@@ -2,6 +2,8 @@
 
 ![Techie03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techie03&theme=dark&show_icons=true)
 
+![image](https://user-images.githubusercontent.com/96654142/236489694-4b0f01f3-7ca0-433a-bffe-ac08d394bb68.png)
+
 
 
 👋 Hi, I’m MAREDDY NISHITH CHOWDARY.
