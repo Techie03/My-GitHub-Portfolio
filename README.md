@@ -8,6 +8,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Techie03&theme=highcontrast)](https://git.io/streak-stats)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techie03&show_icons=true&locale=en&layout=compact" alt="techie03" /></p>
+
 ![Techie03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techie03&theme=dark&show_icons=true)
 
 
