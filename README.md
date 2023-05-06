@@ -13,8 +13,6 @@
 ![Techie03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techie03&theme=dark&show_icons=true)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techie03&show_icons=true&locale=en&layout=compact" alt="techie03" /></p>
-
 
 👀 I’m interested in Python programming,web development and technology.
 
