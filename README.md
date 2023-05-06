@@ -22,7 +22,7 @@
 
 🌱 Also working on Frameworks like DJANGO and FLASK.
 
-🌱 Interested in WEB DEVELOPMENT and Automation.
+🌱 Interested in Web Development and Automation.
 
 💞️ I’m looking to collaborate on new python projects..!!
 
