@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishith</h1>
 
-![image](https://user-images.githubusercontent.com/96654142/236798283-de3fb486-6faf-4646-a125-3184f1d6894c.gif)
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
 <h3 align="center">Motivated software developer seeking entry-level opportunities to apply and expand skills in coding and problem-solving.I haveparticipated in my college's Project Expo for two consecutive years, showcasing my skills in developing innovative projects.</h3>
