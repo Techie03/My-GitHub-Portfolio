@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishith</h1>
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <h3 align="center">Motivated software developer seeking entry-level opportunities to apply and expand skills in coding and problem-solving.I haveparticipated in my college's Project Expo for two consecutive years, showcasing my skills in developing innovative projects.</h3>
 
