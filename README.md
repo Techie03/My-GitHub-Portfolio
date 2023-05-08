@@ -2,13 +2,13 @@
 
 <h3 align="center">Motivated software developer seeking entry-level opportunities to apply and expand skills in coding and problem-solving.I haveparticipated in my college's Project Expo for two consecutive years, showcasing my skills in developing innovative projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techie03" alt="techie03" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=techie03" alt="techie03" /></a> </p>
 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Techie03&theme=highcontrast)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techie03&show_icons=true&locale=en&layout=compact" alt="techie03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techie03&show_icons=true&locale=en&layout=compact" alt="techie03" /></p>
 
 ![Techie03's GitHub stats](https://github-readme-stats.vercel.app/api?username=Techie03&theme=dark&show_icons=true)
 
