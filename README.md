@@ -1,6 +1,6 @@
-<h0 align="center">[My GitHub Profile](https://www.github.com/Techie03)</h0>
+<h1 align="center">[My GitHub Profile](https://www.github.com/Techie03)</h1>
 
-<h1 align="center">Hi 👋, I'm Nishith</h1>
+<h2 align="center">Hi 👋, I'm Nishith</h2>
 
 ![coding](https://user-images.githubusercontent.com/96654142/236844653-8427c2e1-e56f-47db-ba86-55c488069756.gif)
 
