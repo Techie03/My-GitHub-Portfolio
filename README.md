@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nishith</h1>
 
-<p2 align="center">![coding](https://user-images.githubusercontent.com/96654142/236844653-8427c2e1-e56f-47db-ba86-55c488069756.gif)</p2>
-
+![coding](https://user-images.githubusercontent.com/96654142/236844653-8427c2e1-e56f-47db-ba86-55c488069756.gif)
 
 <h3 align="center">Motivated software developer seeking entry-level opportunities to apply and expand skills in coding and problem-solving.I haveparticipated in my college's Project Expo for two consecutive years, showcasing my skills in developing innovative projects.</h3>
 
