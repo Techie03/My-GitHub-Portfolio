@@ -1,4 +1,4 @@
-[My GitHub Profile](https://www.github.com/Techie03)
+<h0 align="center">[My GitHub Profile](https://www.github.com/Techie03)</h0>
 
 <h1 align="center">Hi 👋, I'm Nishith</h1>
 
