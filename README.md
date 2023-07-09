@@ -11,6 +11,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Techie03&theme=highcontrast)](https://git.io/streak-stats)
+![](https://leetcard.jacoblin.cool/nishith374)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techie03&show_icons=true&locale=en&layout=compact" alt="techie03" /></p>
 
