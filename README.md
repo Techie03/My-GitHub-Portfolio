@@ -1,9 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nishith M
-=================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+👋;To+my+Space!)](https://git.io/typing-svg)
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Techie03.My-GitHub-Portfolio" />
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SansSerif&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishith!;" />
+</h1>
 <p align="center"><img src="https://user-images.githubusercontent.com/96654142/236844653-8427c2e1-e56f-47db-ba86-55c488069756.gif" alt="techie03" /> </p>
 
 Developer & Designer
