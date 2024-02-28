@@ -16,7 +16,9 @@ Highly motivated and results-oriented entry-level software developer, eager to c
 
 
 *   🌍  I'm based in Hyderabad
-*   ✉️  You can contact me at [nishith374@gmail.com](mailto:nishith374@gmail.com)
+*   ✉️  You can contact me at  <a href="mailto:nishith374@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on Python and Web Dev Projects
 *   ⚡  Just go code and super charge !!
