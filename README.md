@@ -99,11 +99,11 @@ Highly motivated and results-oriented entry-level software developer, eager to c
 <b>📌Top Repositories📌</b>
 </h1>
 </h1>
-<div align="center">
 
-<div width="100%" align="center"><a href="https://github.com/Techie03/MREC_BUSPASS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Techie03&repo=MREC_BUSPASS&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Techie03/Web-Socket-Video-Based-Streamining" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Techie03&repo=Web-Socket-Video-Based-Streamining&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br/>
+
+<div width="100%" align="center"><a href="https://github.com/Techie03/MREC_BUSPASS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Techie03&repo=MREC_BUSPASS&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a>
+<div width="100%" align =" center"><a href="https://github.com/Techie03/Web-Socket-Video-Based-Streamining" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Techie03&repo=Web-Socket-Video-Based-Streamining&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br/>
 <br/><br />
-
 <div width="100%" align="center"><a href="https://github.com/Techie03/MREC_DDDS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Techie03&repo=MREC_DDDS&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br/>
 <br/><br />
 
