@@ -9,7 +9,7 @@ Developer & Designer
 
 Highly motivated and results-oriented entry-level software developer, eager to contribute and continuously enhance expertise in Python, web development technologies (HTML, CSS, JS), and MySQL databases. Thrives in a collaborative environment and seeks an opportunity to apply knowledge to impactful projects, learning and growing alongside experienced professionals.
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=techie03" alt="techie03" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=techie03" alt="techie03" /></p>
 
 
 *   🌍  I'm based in Hyderabad
