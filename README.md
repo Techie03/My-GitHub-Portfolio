@@ -4,6 +4,9 @@
 </h1>
 <h1>
 <p align="center"><img src="https://user-images.githubusercontent.com/96654142/236844653-8427c2e1-e56f-47db-ba86-55c488069756.gif" alt="techie03" /> </p>
+
+
+
 </h1>
 <h1 align="center">
 <b>🧑🏻‍💻Developer & Designer🧑🏻‍💻</b>
@@ -49,6 +52,7 @@ Highly motivated and results-oriented entry-level software developer, eager to c
 <h1 align="center">
 <b>🛠️Tech Stack and Tools🛠️</b>
 </h1>
+<p align="center"><img src="https://support.discordapp.com/hc/en-us/article_attachments/206303208/eJwVyksOwiAQANC7sJfp8Ke7Lt15A0MoUpJWGmZcGe-ubl_eW7zGLmaxMZ80A6yNch-rJO4j1SJr73Uv6Wwkcz8gMae8HeXJBOjC5NEap42dokUX_4SotI8GVfBaYYDldr3n3y_jomRtD_H5ArCeI9g.zGz1JSL-9DXgpkX_SkmMDM8NWGg.gif" alt="techie03" /> </p>
 </h1>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -83,6 +87,7 @@ Highly motivated and results-oriented entry-level software developer, eager to c
 <h1 align="center">
 <b>⚡My GitHub Stats⚡</b>
 </h1>
+<p align="center"><img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="techie03" /> </p>
 <div align="center">
 <a href="http://www.github.com/Techie03"><img src="https://github-readme-stats.vercel.app/api?username=Techie03&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Techie03's GitHub stats" /></a>
 
