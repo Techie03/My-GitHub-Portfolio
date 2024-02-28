@@ -127,7 +127,7 @@ Highly motivated and results-oriented entry-level software developer, eager to c
 <h1 align="center">
 <b>🤖Random Programming Jokes🤖</b>
 </h1>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h1>
 
 <h3 align="center">
