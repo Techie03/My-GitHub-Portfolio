@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/96654142/236844653-8427c2e1-e56f-47db-ba86-55c488069756.gif" alt="techie03" /></a> </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/96654142/236844653-8427c2e1-e56f-47db-ba86-55c488069756.gif" alt="techie03" /> </p>
 
 Developer & Designer
 --------------------
