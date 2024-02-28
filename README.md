@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Techie03.My-GitHub-Portfolio" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=SansSerif&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishith!;" />
 </h1>
