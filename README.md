@@ -95,10 +95,7 @@ Highly motivated and results-oriented entry-level software developer, eager to c
 <a href="http://www.github.com/Techie03"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Techie03&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Techie03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techie03&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/nishith374"/>
-</div>
+
 
 <h1>
 <h1 align="center">
