@@ -25,7 +25,7 @@ Highly motivated and results-oriented entry-level software developer, eager to c
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on Python and Web Dev Projects<br/>
   
-*   💼  Check out my  <a href="https://nishithportfolio.web.app" target="_blank">
+*   💼  Check out my  <a href="https://nishithsportfolio.web.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   
