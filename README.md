@@ -101,7 +101,7 @@ Focus: bridging hardware systems with predictive analytics.
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Techie03&show_icons=true&hide_border=true"/>
+ 
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Techie03&hide_border=true"/>
 </p>
 
