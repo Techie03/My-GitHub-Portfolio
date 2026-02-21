@@ -1,31 +1,20 @@
-# My GitHub Portfolio
+# Techie03's GitHub Portfolio
 
-Welcome to my portfolio! Here you can find all my projects, contributions, and more.
-
-## About Me
-
-I'm a passionate developer who loves to create and learn new technologies. Here are some of my skills:
-
-- JavaScript
-- Python
-- React
-- Node.js
-
-## Projects
-
-1. **Project 1** - [Link to Project 1](#)
-   ![Project 1 GIF](http://example.com/project1.gif)
-2. **Project 2** - [Link to Project 2](#)
-   ![Project 2 GIF](http://example.com/project2.gif)
+Welcome to my animated portfolio, showcasing my skills, experience, and projects based on my resume content.
 
 ## Skills
+### Excel Skills
+- Advanced Pivot Tables
+- Charts
+- Key Performance Indicators (KPI)
 
-![JavaScript Badge](http://example.com/javascript_badge.gif) ![Python Badge](http://example.com/python_badge.gif) 
+## Certifications
+- [List of Certifications]
 
-## Animated Visualizations
+## Leadership Experience
+- [Details about Leadership Experience]
 
-![Dynamic Visualization](http://example.com/visualization.gif)
+## Projects
+- [Complete Project Details from LaTeX Resume]
 
-## Contact
-
-Feel free to reach out to me via [Email](mailto:example@example.com).
+Feel free to explore my projects, and connect with me if you have any questions!
