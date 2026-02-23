@@ -118,10 +118,8 @@ class NishithMareddy:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Techie03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techie03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=8"/>
 
-</div>
+
 
 <div align="center">
 
