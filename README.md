@@ -155,7 +155,7 @@ class NishithMareddy:
 
 ```
 🥇  First Prize — Vishesh 2K22 Project Expo  (Top team among 50+ competitors)
-👨‍💻  Technical Lead — IoTesSENSE Club  (Jan 2023 – Dec 2024)
+👨‍💻  Technical Lead — IoTesSENSE Club  (Jan 2021 – May 2024)
        ↳ Led 80+ members · Organized 12 hackathons · Mentored 20+ students · ↑45% engagement
 ```
 
