@@ -184,11 +184,11 @@ AI-powered insurance claims assistant using RAG, document understanding, and LLM
 
 <p align="center">
   <a href="https://github.com/Techie03/ClaimShieldAI">
-    <kbd><b>🗂️ GitHub Repo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
   <a href="https://techie03.github.io/ClaimShield-AI/claimshield_demo.html">
-    <kbd><b>🚀 Live Demo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
   </a>
 </p>
 
@@ -205,10 +205,12 @@ Medical translation system for multilingual healthcare communication using LLM-p
 
 <p align="center">
   <a href="https://github.com/Techie03/MedTranslateAI">
-    <kbd><b>🗂️ GitHub Repo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <kbd><b>⏳ Coming Soon</b></kbd>
+  <a href="https://github.com/Techie03/MedTranslateAI">
+    <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
+  </a>
 </p>
 
 </td>
@@ -227,10 +229,12 @@ Voice-enabled agentic assistant with tool use, persistent memory, and workflow e
 
 <p align="center">
   <a href="https://github.com/Techie03/Jarvis">
-    <kbd><b>🗂️ GitHub Repo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <kbd><b>⏳ Coming Soon</b></kbd>
+  <a href="https://github.com/Techie03/Jarvis">
+    <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
+  </a>
 </p>
 
 </td>
@@ -248,11 +252,11 @@ Machine learning airfare prediction system with strong model performance and pee
 
 <p align="center">
   <a href="https://github.com/Techie03/Airfare-Price-Prediction">
-    <kbd><b>🗂️ GitHub Repo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
   <a href="https://airfareai.vercel.app/">
-    <kbd><b>🚀 Live Demo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=vercel&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
   </a>
 </p>
 
@@ -274,10 +278,12 @@ Real-time computer vision fatigue detection system using Eye Aspect Ratio algori
 
 <p align="center">
   <a href="https://github.com/Techie03/Driver-Drowsiness-Detection">
-    <kbd><b>🗂️ GitHub Repo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <kbd><b>⏳ Coming Soon</b></kbd>
+  <a href="https://github.com/Techie03/Driver-Drowsiness-Detection">
+    <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
+  </a>
 </p>
 
 </td>
@@ -295,10 +301,12 @@ End-to-end classification project on 7,000+ records using SMOTE to handle class 
 
 <p align="center">
   <a href="https://github.com/Techie03/Customer-Churn-Prediction">
-    <kbd><b>🗂️ GitHub Repo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <kbd><b>⏳ Coming Soon</b></kbd>
+  <a href="https://github.com/Techie03/Customer-Churn-Prediction">
+    <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
+  </a>
 </p>
 
 </td>
@@ -317,10 +325,12 @@ ESP32-based IoT bottle system for real-time water level detection, wireless moni
 
 <p align="center">
   <a href="https://github.com/Techie03/IoT-Smart-Water-Level-Monitoring-Bottle">
-    <kbd><b>🗂️ GitHub Repo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <kbd><b>⏳ Coming Soon</b></kbd>
+  <a href="https://github.com/Techie03/IoT-Smart-Water-Level-Monitoring-Bottle">
+    <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
+  </a>
 </p>
 
 </td>
@@ -336,16 +346,17 @@ Small language model-based resume optimization system focused on reducing infere
 
 <p align="center">
   <a href="https://github.com/Techie03/Resume-Optimization-SLM">
-    <kbd><b>🗂️ GitHub Repo</b></kbd>
+    <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <kbd><b>⏳ Coming Soon</b></kbd>
+  <a href="https://github.com/Techie03/Resume-Optimization-SLM">
+    <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
+  </a>
 </p>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack
