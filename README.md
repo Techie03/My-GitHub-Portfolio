@@ -449,7 +449,7 @@ Small language model-based resume optimization system focused on reducing infere
 | 🔄 | Agile Foundation | LinkedIn Learning |
 
 - 🥇 **First Prize — Vishesh 2022 Inter-College Project Expo**
-- 👨‍💻 **Technical Lead — IoTesSENSE Club**
+- 👨‍💻 **Technical Lead & Research Contributor — Malla Reddy Deemed to be University**
 - 📄 **2 Published Research Papers** — Airfare Price Prediction · IoT Smart Water Level Monitoring
 
 ---
