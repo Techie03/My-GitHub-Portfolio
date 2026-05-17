@@ -380,7 +380,7 @@ Small language model-based resume optimization system focused on reducing infere
 
 ---
 
-## 📊 GitHub Analytics
+
 
 ## 🔥 GitHub Streak
 
