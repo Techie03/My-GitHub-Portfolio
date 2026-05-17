@@ -425,17 +425,6 @@ Small language model-based resume optimization system focused on reducing infere
 </td>
 <td width="50%" align="center">
 
-### Codeforces
-
-<a href="https://codeforces.com/profile/Techie03">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Techie03&theme=dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats">
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
