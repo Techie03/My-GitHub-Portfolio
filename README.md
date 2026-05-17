@@ -204,11 +204,11 @@ Medical translation system for multilingual healthcare communication using LLM-p
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/Techie03/MedTranslateAI">
+  <a href="https://github.com/Techie03/MedTranslate">
     <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Techie03/MedTranslateAI">
+  <a href="https://medtranslateai.vercel.app/">
     <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
   </a>
 </p>
@@ -228,11 +228,11 @@ Voice-enabled agentic assistant with tool use, persistent memory, and workflow e
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/Techie03/Jarvis">
+  <a href="https://github.com/Techie03/Jarvis-Techie">
     <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Techie03/Jarvis">
+  <a href="https://jarvis-techie.vercel.app/">
     <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
   </a>
 </p>
@@ -251,7 +251,7 @@ Machine learning airfare prediction system with strong model performance and pee
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/Techie03/Airfare-Price-Prediction">
+  <a href="https://github.com/Techie03/Airfare-price-prediction-system">
     <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
@@ -277,11 +277,11 @@ Real-time computer vision fatigue detection system using Eye Aspect Ratio algori
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/Techie03/Driver-Drowsiness-Detection">
+  <a href="https://github.com/Techie03/Driver-Drowsiness-Detection-System">
     <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Techie03/Driver-Drowsiness-Detection">
+  <a href="https://techie03.github.io/Driver-Drowsiness-Detection-System/">
     <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
   </a>
 </p>
@@ -300,11 +300,11 @@ End-to-end classification project on 7,000+ records using SMOTE to handle class 
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/Techie03/Customer-Churn-Prediction">
+  <a href="https://github.com/Techie03/Customer-Churn-Prediction-Analysis">
     <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Techie03/Customer-Churn-Prediction">
+  <a href="https://techie03.github.io/Customer-Churn-Prediction-Analysis/">
     <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
   </a>
 </p>
@@ -324,11 +324,11 @@ ESP32-based IoT bottle system for real-time water level detection, wireless moni
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/Techie03/IoT-Smart-Water-Level-Monitoring-Bottle">
+  <a href="https://github.com/Techie03/IoT-Based-Automatic-Smart-Water-Level-Management-Bottle">
     <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Techie03/IoT-Smart-Water-Level-Monitoring-Bottle">
+  <a href="https://techie03.github.io/IoT-Based-Automatic-Smart-Water-Level-Management-Bottle/">
     <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
   </a>
 </p>
@@ -345,11 +345,11 @@ Small language model-based resume optimization system focused on reducing infere
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/Techie03/Resume-Optimization-SLM">
+  <a href="https://github.com/Techie03/Low-Cost-Resume-Optimization-via-Distillation-of-Large-Language-Model-Behavior-into-a-Fine-Tuned-SLM">
     <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Techie03/Resume-Optimization-SLM">
+  <a href="https://techie03.github.io/Low-Cost-Resume-Optimization-via-Distillation-of-Large-Language-Model-Behavior-into-a-Fine-Tuned-SLM/Model_Deployment.html">
     <img height="42" src="https://img.shields.io/badge/Live%20Demo-3E2723?style=for-the-badge&logo=githubpages&logoColor=FFE0B2&labelColor=A0522D" alt="Live Demo">
   </a>
 </p>
