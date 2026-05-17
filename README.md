@@ -184,11 +184,11 @@ AI-powered insurance claims assistant using RAG, document understanding, and LLM
 
 <p align="center">
   <a href="https://github.com/Techie03/ClaimShieldAI">
-    <kbd>⌘ GitHub Repo</kbd>
+    <kbd><b>🗂️ GitHub Repo</b></kbd>
   </a>
   &nbsp;&nbsp;
   <a href="https://techie03.github.io/ClaimShield-AI/claimshield_demo.html">
-    <kbd>↗ Live Demo</kbd>
+    <kbd><b>🚀 Live Demo</b></kbd>
   </a>
 </p>
 
@@ -205,10 +205,10 @@ Medical translation system for multilingual healthcare communication using LLM-p
 
 <p align="center">
   <a href="https://github.com/Techie03/MedTranslateAI">
-    <kbd>⌘ GitHub Repo</kbd>
+    <kbd><b>🗂️ GitHub Repo</b></kbd>
   </a>
   &nbsp;&nbsp;
-  <kbd>⌛ Coming Soon</kbd>
+  <kbd><b>⏳ Coming Soon</b></kbd>
 </p>
 
 </td>
@@ -227,10 +227,10 @@ Voice-enabled agentic assistant with tool use, persistent memory, and workflow e
 
 <p align="center">
   <a href="https://github.com/Techie03/Jarvis">
-    <kbd>⌘ GitHub Repo</kbd>
+    <kbd><b>🗂️ GitHub Repo</b></kbd>
   </a>
   &nbsp;&nbsp;
-  <kbd>⌛ Coming Soon</kbd>
+  <kbd><b>⏳ Coming Soon</b></kbd>
 </p>
 
 </td>
@@ -248,11 +248,11 @@ Machine learning airfare prediction system with strong model performance and pee
 
 <p align="center">
   <a href="https://github.com/Techie03/Airfare-Price-Prediction">
-    <kbd>⌘ GitHub Repo</kbd>
+    <kbd><b>🗂️ GitHub Repo</b></kbd>
   </a>
   &nbsp;&nbsp;
   <a href="https://airfareai.vercel.app/">
-    <kbd>↗ Live Demo</kbd>
+    <kbd><b>🚀 Live Demo</b></kbd>
   </a>
 </p>
 
@@ -274,10 +274,10 @@ Real-time computer vision fatigue detection system using Eye Aspect Ratio algori
 
 <p align="center">
   <a href="https://github.com/Techie03/Driver-Drowsiness-Detection">
-    <kbd>⌘ GitHub Repo</kbd>
+    <kbd><b>🗂️ GitHub Repo</b></kbd>
   </a>
   &nbsp;&nbsp;
-  <kbd>⌛ Coming Soon</kbd>
+  <kbd><b>⏳ Coming Soon</b></kbd>
 </p>
 
 </td>
@@ -295,10 +295,10 @@ End-to-end classification project on 7,000+ records using SMOTE to handle class 
 
 <p align="center">
   <a href="https://github.com/Techie03/Customer-Churn-Prediction">
-    <kbd>⌘ GitHub Repo</kbd>
+    <kbd><b>🗂️ GitHub Repo</b></kbd>
   </a>
   &nbsp;&nbsp;
-  <kbd>⌛ Coming Soon</kbd>
+  <kbd><b>⏳ Coming Soon</b></kbd>
 </p>
 
 </td>
@@ -317,10 +317,10 @@ ESP32-based IoT bottle system for real-time water level detection, wireless moni
 
 <p align="center">
   <a href="https://github.com/Techie03/IoT-Smart-Water-Level-Monitoring-Bottle">
-    <kbd>⌘ GitHub Repo</kbd>
+    <kbd><b>🗂️ GitHub Repo</b></kbd>
   </a>
   &nbsp;&nbsp;
-  <kbd>⌛ Coming Soon</kbd>
+  <kbd><b>⏳ Coming Soon</b></kbd>
 </p>
 
 </td>
@@ -336,10 +336,10 @@ Small language model-based resume optimization system focused on reducing infere
 
 <p align="center">
   <a href="https://github.com/Techie03/Resume-Optimization-SLM">
-    <kbd>⌘ GitHub Repo</kbd>
+    <kbd><b>🗂️ GitHub Repo</b></kbd>
   </a>
   &nbsp;&nbsp;
-  <kbd>⌛ Coming Soon</kbd>
+  <kbd><b>⏳ Coming Soon</b></kbd>
 </p>
 
 </td>
