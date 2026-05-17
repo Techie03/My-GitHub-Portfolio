@@ -1,44 +1,51 @@
 <div align="center">
 
- 
+<!-- ═══════════════════════════════════════════════
+     ANIMATED ROBOT CHARACTER (fully inline SVG — no external dependency)
+     Floats up/down, eyes blink, arms wave, chest screen types
+═══════════════════════════════════════════════ -->
 
 <svg width="120" height="130" viewBox="0 0 120 130" fill="none" xmlns="http://www.w3.org/2000/svg">
-
+  <!-- Float animation wrapper -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="3s" repeatCount="indefinite"/>
-   <circle cx="60" cy="68" r="52" fill="#00D4FF08" stroke="#00D4FF22" stroke-width="1"/>
+
+    <!-- Glow halo -->
+    <circle cx="60" cy="68" r="52" fill="#00D4FF08" stroke="#00D4FF22" stroke-width="1"/>
+
+    <!-- Antenna -->
     <line x1="60" y1="20" x2="60" y2="8" stroke="#00D4FF" stroke-width="1.5"/>
     <circle cx="60" cy="6" r="3" fill="#00D4FF">
       <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
 
+    <!-- Head -->
+    <rect x="34" y="20" width="52" height="44" rx="14" fill="#1a2744" stroke="#00D4FF" stroke-width="1.5"/>
 
-<rect x="34" y="20" width="52" height="44" rx="14" fill="#1a2744" stroke="#00D4FF" stroke-width="1.5"/>
-
-  
- <rect x="43" y="33" width="10" height="10" rx="3" fill="#00D4FF">
+    <!-- Left eye -->
+    <rect x="43" y="33" width="10" height="10" rx="3" fill="#00D4FF">
       <animate attributeName="height" values="10;2;10" dur="3.5s" repeatCount="indefinite"/>
       <animate attributeName="y" values="33;37;33" dur="3.5s" repeatCount="indefinite"/>
     </rect>
- 
-<rect x="67" y="33" width="10" height="10" rx="3" fill="#00D4FF">
+    <!-- Right eye -->
+    <rect x="67" y="33" width="10" height="10" rx="3" fill="#00D4FF">
       <animate attributeName="height" values="10;2;10" dur="3.5s" begin="0.2s" repeatCount="indefinite"/>
       <animate attributeName="y" values="33;37;33" dur="3.5s" begin="0.2s" repeatCount="indefinite"/>
     </rect>
 
-   
-  <rect x="44" y="51" width="32" height="5" rx="2" fill="#00D4FF22"/>
+    <!-- Mouth — animated scan bar -->
+    <rect x="44" y="51" width="32" height="5" rx="2" fill="#00D4FF22"/>
     <rect x="44" y="52" width="12" height="3" rx="1" fill="#00D4FF">
       <animate attributeName="x" values="44;62;44" dur="1.8s" repeatCount="indefinite"/>
       <animate attributeName="width" values="12;8;12" dur="1.8s" repeatCount="indefinite"/>
     </rect>
 
+    <!-- Body -->
+    <rect x="28" y="67" width="64" height="38" rx="12" fill="#1a2744" stroke="#00D4FF55" stroke-width="1"/>
 
-<rect x="28" y="67" width="64" height="38" rx="12" fill="#1a2744" stroke="#00D4FF55" stroke-width="1"/>
-
-  
-<rect x="38" y="74" width="44" height="24" rx="5" fill="#0d1117" stroke="#00D4FF33" stroke-width="1"/>
+    <!-- Chest screen -->
+    <rect x="38" y="74" width="44" height="24" rx="5" fill="#0d1117" stroke="#00D4FF33" stroke-width="1"/>
     <!-- Typing lines -->
     <rect x="42" y="79" width="24" height="2" rx="1" fill="#00D4FF88">
       <animate attributeName="width" values="24;34;18;24" dur="2.2s" repeatCount="indefinite"/>
@@ -50,22 +57,22 @@
       <animate attributeName="width" values="30;20;36;30" dur="2.2s" begin="0.8s" repeatCount="indefinite"/>
     </rect>
 
-  
-<rect x="10" y="69" width="18" height="9" rx="4.5" fill="#1a2744" stroke="#00D4FF44" stroke-width="1">
+    <!-- Left arm -->
+    <rect x="10" y="69" width="18" height="9" rx="4.5" fill="#1a2744" stroke="#00D4FF44" stroke-width="1">
       <animateTransform attributeName="transform" type="rotate" values="0 19 73;-20 19 73;0 19 73" dur="2s" repeatCount="indefinite"/>
     </rect>
-    
-<rect x="92" y="69" width="18" height="9" rx="4.5" fill="#1a2744" stroke="#00D4FF44" stroke-width="1">
+    <!-- Right arm -->
+    <rect x="92" y="69" width="18" height="9" rx="4.5" fill="#1a2744" stroke="#00D4FF44" stroke-width="1">
       <animateTransform attributeName="transform" type="rotate" values="0 101 73;20 101 73;0 101 73" dur="2s" repeatCount="indefinite"/>
     </rect>
 
- 
-<rect x="38" y="105" width="18" height="16" rx="6" fill="#1a2744" stroke="#00D4FF33" stroke-width="1"/>
+    <!-- Legs -->
+    <rect x="38" y="105" width="18" height="16" rx="6" fill="#1a2744" stroke="#00D4FF33" stroke-width="1"/>
     <rect x="64" y="105" width="18" height="16" rx="6" fill="#1a2744" stroke="#00D4FF33" stroke-width="1"/>
   </g>
 </svg>
 
-
+<!-- TYPING TITLE -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Nishith+Chowdary+Mareddy;AI+%26+ML+Engineer+%F0%9F%A4%96;Building+Production+AI+Systems+%F0%9F%9A%80;RAG+%C2%B7+LangChain+%C2%B7+LangGraph+%C2%B7+MCP;Turning+Data+into+Decisions+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <p>
