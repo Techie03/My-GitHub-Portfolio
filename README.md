@@ -382,24 +382,17 @@ Small language model-based resume optimization system focused on reducing infere
 
 ## 📊 GitHub Analytics
 
+## 🔥 GitHub Streak
+
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Techie03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B35&text_color=FFFFFF&include_all_commits=true">
-
-</td>
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techie03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8">
-
-</td>
-</tr>
-</table>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Techie03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF">
+<a href="https://git.io/streak-stats">
+  <img
+    width="70%"
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=Techie03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+  />
+</a>
 
 </div>
 
