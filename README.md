@@ -60,7 +60,7 @@ RAG · LLM Orchestration · Agentic Workflows · NLP · Data Engineering<br>
 
 I am an **AI & ML Engineer** focused on building practical AI systems that solve real-world problems.
 
-Currently pursuing my **MS in Data Science at the University of North Texas**, I work across **machine learning, GenAI, RAG, NLP, data engineering, and agentic AI workflows**.
+I recently graduated with an **MS in Data Science from the University of North Texas**, and I work across **machine learning, GenAI, RAG, NLP, data engineering, and agentic AI workflows**.
 
 My goal is to build systems that are not just demos, but reliable tools that support real users, automate workflows, and improve business decisions.
 
