@@ -183,7 +183,7 @@ AI-powered insurance claims assistant using RAG, document understanding, and LLM
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/Techie03/ClaimShieldAI">
+  <a href="https://github.com/Techie03/ClaimShield-AI">
     <img height="42" src="https://img.shields.io/badge/GitHub%20Repo-2F1B12?style=for-the-badge&logo=github&logoColor=F5DEB3&labelColor=8B4513" alt="GitHub Repo">
   </a>
   &nbsp;&nbsp;
