@@ -29,7 +29,7 @@ RAG · LLM Orchestration · Agentic Workflows · NLP · Data Engineering<br>
 <a href="https://leetcode.com/Techie03/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
-<a href="https://codeforces.com/profile/Techie03">
+<a href="https://codeforces.com/profile/nishith374">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
 </a>
 
